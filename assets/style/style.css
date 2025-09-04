@@ -16,3 +16,13 @@ main {
   justify-content: start;
   align-items: end;
 } */
+
+.img-card {
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-body {
+  background-color: aqua;
+
+}
